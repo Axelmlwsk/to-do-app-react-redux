@@ -1,0 +1,7 @@
+.todoscontainer {
+  width: 100vw;
+  height: 500px;
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
